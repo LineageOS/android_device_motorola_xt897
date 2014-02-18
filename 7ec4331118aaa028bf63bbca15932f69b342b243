@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_dcc86c77",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-toetsenbord",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_bcc5a85c",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Photon Q-toetsenbord",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_1ca134aa",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-QWERTY",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_fca570b5",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-QWERTZ",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_5cabbc89",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-Tsjechisch QWERTY",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_9c954442",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-Tsjechisch QWERTZ",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_7c920059",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-Kroatisch QWERTY",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_dc9fcc5d",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-18T14:15:44Z",
+      "side": 1,
+      "message": "Asanti-Kroatisch QWERTZ",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
