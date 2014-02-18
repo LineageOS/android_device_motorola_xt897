@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "fade3982_3cb518cd",
+        "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2014-02-18T14:52:32Z",
+      "side": 1,
+      "message": "ik vind de aanpassingen met streepjes niet noodzakelijk. Asanti is t model van de telefoon, er is niet zoiets als \"een Asanti-QWERTY\" en ook \"Asanti-Tsjechisch\" is niet een ding\n\nDeze patch is ook al gemerged zonder deze aanpassingen http://review.cyanogenmod.org/#/c/59838/",
+      "revId": "7ec4331118aaa028bf63bbca15932f69b342b243",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fade3982_dcc86c77",
         "filename": "AsantiKeypad/res/values-nl/cm_translations.xml",
         "patchSetId": 1
