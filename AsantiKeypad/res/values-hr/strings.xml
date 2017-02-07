@@ -19,35 +19,35 @@
   <string name="app_name">Asanti tipkovnica</string>
   <string name="keyboard_layouts_label">Photon Q tipkovnica</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_qwerty_label">Asanti v1 zapadna/Njemačka QWERTY</string>
+  <string name="keypad_asanti_qwerty_label">Asanti v1 zapadni/njemački QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_qwertz_label">Asanti v1 zapadna/Njemačka QWERTZ</string>
+  <string name="keypad_asanti_qwertz_label">Asanti v2 zapadni/njemački QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_czech_qwerty_label">Asanti v1 Češka QWERTY</string>
+  <string name="keypad_asanti_czech_qwerty_label">Asanti v1 češki QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_czech_qwertz_label">Asanti v1 Češka QWERTZ</string>
+  <string name="keypad_asanti_czech_qwertz_label">Asanti v1 češki QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_cro_qwerty_label">Asanti v1 Hrvatska QWERTY</string>
+  <string name="keypad_asanti_cro_qwerty_label">Asanti v1 hrvatski QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_cro_qwertz_label">Asanti v1 Hrvatska QWERTZ</string>
+  <string name="keypad_asanti_cro_qwertz_label">Asanti v1 hrvatski QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_polish_qwerty_label">Asanti v1 Poljska QWERTY</string>
+  <string name="keypad_asanti_polish_qwerty_label">Asanti v1 poljski QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_polish_qwertz_label">Asanti v1 Poljska QWERTZ</string>
+  <string name="keypad_asanti_polish_qwertz_label">Asanti v1 poljski QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_qwerty_label">Asanti v2 zapadna/Njemačka QWERTY</string>
+  <string name="keypad_asanti_capsshift_qwerty_label">Asanti v2 zapadni/njemački QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_qwertz_label">Asanti v2 zapadna/Njemačka QWERTZ</string>
+  <string name="keypad_asanti_capsshift_qwertz_label">Asanti v2 zapadni/njemački QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_czech_qwerty_label">Asanti v2 Češka QWERTY</string>
+  <string name="keypad_asanti_capsshift_czech_qwerty_label">Asanti v2 češki QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_czech_qwertz_label">Asanti v2 Češka QWERTZ</string>
+  <string name="keypad_asanti_capsshift_czech_qwertz_label">Asanti v2 češki QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_cro_qwerty_label">Asanti v2 Hrvatska QWERTY</string>
+  <string name="keypad_asanti_capsshift_cro_qwerty_label">Asanti v2 hrvatski QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_cro_qwertz_label">Asanti v2 Hrvatska QWERTZ</string>
+  <string name="keypad_asanti_capsshift_cro_qwertz_label">Asanti v2 hrvatski QWERTZ</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_polish_qwerty_label">Asanti v2 Poljska QWERTY</string>
+  <string name="keypad_asanti_capsshift_polish_qwerty_label">Asanti v2 poljski QWERTY</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_polish_qwertz_label">Asanti v2 Poljska QWERTZ</string>
+  <string name="keypad_asanti_capsshift_polish_qwertz_label">Asanti v2 poljski QWERTZ</string>
 </resources>
