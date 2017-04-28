@@ -19,35 +19,35 @@
   <string name="app_name">Tecláu Asanti</string>
   <string name="keyboard_layouts_label">Tecláu Photon Q</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_qwerty_label">Asanti v1 western/German QWERTY</string>
+  <string name="keypad_asanti_qwerty_label">Asanti v1 QWERTY alemán del oeste</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_qwertz_label">Asanti v1 western/German QWERTY</string>
+  <string name="keypad_asanti_qwertz_label">Asanti v1 QWERTZ alemán del oeste</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_czech_qwerty_label">Asanti v1 Czech QWERTY</string>
+  <string name="keypad_asanti_czech_qwerty_label">Asanti v1 QWERTY checu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_czech_qwertz_label">Asanti v1 Czech QWERTY</string>
+  <string name="keypad_asanti_czech_qwertz_label">Asanti v1 QWERTZ checu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_cro_qwerty_label">Asanti v1 Croatian QWERTY</string>
+  <string name="keypad_asanti_cro_qwerty_label">Asanti v1 QWERTY croata</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_cro_qwertz_label">Asanti v1 Croatian QWERTZ</string>
+  <string name="keypad_asanti_cro_qwertz_label">Asanti v1 QWERTZ croata</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_polish_qwerty_label">Asanti v1 Czech QWERTY</string>
+  <string name="keypad_asanti_polish_qwerty_label">Asanti v1 QWERTY polacu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-  <string name="keypad_asanti_polish_qwertz_label">Asanti v1 Polish QWERTZ</string>
+  <string name="keypad_asanti_polish_qwertz_label">Asanti v1 QWERTZ polacu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_qwerty_label">Asanti v2 western/German QWERTY</string>
+  <string name="keypad_asanti_capsshift_qwerty_label">Asanti v2 QWERTY alemán del oeste</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_qwertz_label">Asanti v2 western/German QWERTZ</string>
+  <string name="keypad_asanti_capsshift_qwertz_label">Asanti v2 QWERTZ alemán del oeste</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_czech_qwerty_label">Asanti v2 Czech QWERTY</string>
+  <string name="keypad_asanti_capsshift_czech_qwerty_label">Asanti v2 QWERTY checu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_czech_qwertz_label">Asanti v2 Czech QWERTZ</string>
+  <string name="keypad_asanti_capsshift_czech_qwertz_label">Asanti v2 QWERTZ checu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_cro_qwerty_label">Asanti v2 Croatian QWERTY</string>
+  <string name="keypad_asanti_capsshift_cro_qwerty_label">Asanti v2 QWERTY croata</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_cro_qwertz_label">Asanti v2 Croatian QWERTZ</string>
+  <string name="keypad_asanti_capsshift_cro_qwertz_label">Asanti v2 QWERTZ croata</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_polish_qwerty_label">Asanti v2 Polish QWERTY</string>
+  <string name="keypad_asanti_capsshift_polish_qwerty_label">Asanti v2 QWERTY polacu</string>
   <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-  <string name="keypad_asanti_capsshift_polish_qwertz_label">Asanti v2 Polish QWERTZ</string>
+  <string name="keypad_asanti_capsshift_polish_qwertz_label">Asanti v2 QWERTZ polacu</string>
 </resources>
