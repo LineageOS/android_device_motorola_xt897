@@ -32,7 +32,6 @@ LOCAL_PATH := device/motorola/xt897
 TARGET_OTA_ASSERT_DEVICE := xt897,asanti_c
 
 # Vendor Init
-TARGET_UNIFIED_DEVICE := true
 TARGET_INIT_VENDOR_LIB := libinit_xt897
 TARGET_RECOVERY_DEVICE_MODULES := libinit_xt897
 
