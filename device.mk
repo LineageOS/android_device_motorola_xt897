@@ -36,9 +36,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     unlock-us-gsm
 
+# Low Ram Device
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.config.low_ram=true
+
 # QCOM Display
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=240 \
+    ro.sf.lcd_density=240
 
 # Telephony
 PRODUCT_PROPERTY_OVERRIDES += \
